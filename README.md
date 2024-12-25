@@ -68,7 +68,7 @@ Katkıda bulunmak için aşağıdaki adımları izleyin:
 ---
 
 ## 📧 İletişim
-Herhangi bir sorunuz varsa, proje sahibine ulaşabilirsiniz.
+Herhangi bir sorunuz varsa, Linkedın üzerinden ulaşabilirsiniz.
 
 ---
 
